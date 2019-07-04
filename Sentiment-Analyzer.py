@@ -217,7 +217,7 @@ elif (np.argmax(sentiment) == 1):
 from keras.models import load_model
 
 model.save('sentiment-analyzer.h5')
-# In[23]:
+
 
 
 
